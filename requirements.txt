@@ -1,0 +1,2 @@
+aiogram==2.6.1
+forex-python==1.5
